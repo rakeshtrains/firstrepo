@@ -1,0 +1,9 @@
+  A=input("enter your no)
+  if no==1:
+  print("welcome to car section")
+  elif no==2:
+  print("welcome to bike section")
+  elif no==3:
+  print("welcome to mobile section")
+  else:
+  print("plese enter the valid no")
